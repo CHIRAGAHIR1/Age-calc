@@ -21,14 +21,14 @@ It calculates the **exact age** of a user in years, months, and days — along w
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
 ## 🌐 Live Demo
 
 Try the live version here:  
-🔗 [https://chiragahir1.github.io/Age-calc/](https://chiragahir1.github.io/Age-calc/)
+🔗 https://chiragahir1.github.io/Age-calc/
 
 ---
 
