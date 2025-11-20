@@ -13,7 +13,6 @@ It calculates the **exact age** of a user in years, months, and days — along w
   - Total Months, Days, Hours, Minutes, Seconds
 - ⚡ **Real-Time Calculation** – No page reloads
 - 💻 **Responsive Design** – Clean UI with modern gradient background
-- 🧠 **Client-Side Logic Only** – No backend required
 
 ---
 
