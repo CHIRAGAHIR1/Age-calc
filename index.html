@@ -128,10 +128,12 @@
             const totalHours = Math.floor(totalMinutes / 60);
             const totalDays = Math.floor(totalHours / 24);
             const totalMonths = years * 12 + months;
+            const totalWeeks = Math.floor(totalDays / 7);
 
             document.getElementById("result").innerHTML = `
                 <strong>You are ${years} years, ${months} months, and ${days} days old.</strong><br><br>
                 Total Months: ${totalMonths}<br>
+                Total Weeks: ${totalWeeks}<br>
                 Total Days: ${totalDays}<br>
                 Total Hours: ${totalHours}<br>
                 Total Minutes: ${totalMinutes}<br>
@@ -154,5 +156,6 @@
 </body>
 
 </html>
+
 
 
