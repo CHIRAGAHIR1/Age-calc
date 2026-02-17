@@ -53,8 +53,9 @@
         }
 
         button {
-            background-color: #ff9800;
-            color: white;
+            background-color: white;
+            color: #6a11cb;
+            font-weight: bold;
             border: none;
             padding: 12px;
             width: 100%;
@@ -65,7 +66,7 @@
         }
 
         button:hover {
-            background-color: #e68900;
+            background-color: #f0f0f0;
         }
 
         #result {
@@ -74,6 +75,12 @@
             background: rgba(255, 255, 255, 0.3);
             border-radius: 5px;
             font-size: 15px;
+        }
+
+        #result:empty {
+            display: none;
+            padding: 0;
+            margin: 0;
         }
 
         @media (max-width: 480px) {
@@ -157,6 +164,7 @@
 </body>
 
 </html>
+
 
 
 
