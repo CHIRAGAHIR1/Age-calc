@@ -10,8 +10,7 @@ It calculates the **exact age** of a user in years, months, and days — along w
 - 📅 **Birthdate Input** – Enter your birthdate to calculate your age instantly
 - 📊 **Detailed Output** – Displays:
   - Years, Months, Days
-  - Total Months, Days, Hours, Minutes, Seconds
-- ⚡ **Real-Time Calculation** – No page reloads
+  - Total Months, Weeks, Days, Hours, Minutes, Seconds
 - 💻 **Responsive Design** – Clean UI with modern gradient background
 
 ---
